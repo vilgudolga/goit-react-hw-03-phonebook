@@ -1,0 +1,22 @@
+.section {
+    width: 350px;
+    padding: 20px;
+    padding-top: 0px;
+    background-color:rgb(231, 169, 44);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.input {
+    width: 300px;
+    height: 20px;
+    padding-left: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+}
+
+.input:hover,
+.input:focus {
+    box-shadow: 5px 5px 5px 0px rgba(207, 124, 14, 0.75);
+}
